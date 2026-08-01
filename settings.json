@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "AmkesBot",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "AmkesSMP.aternos.me",
