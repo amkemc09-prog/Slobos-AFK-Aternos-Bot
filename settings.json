@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AmkesSMP.aternos.me:46583",
+    "ip": "AmkesSMP.aternos.me",
     "port": 46583,
     "version": "",
     "try-creative": false
